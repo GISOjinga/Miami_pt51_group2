@@ -18,7 +18,7 @@ export const LandingPage = () => {
 			<div id="about-section" className="scroll-section text-center d-flex flex-column justify-content-center align-items-center px-5">
 				<h2 className="text-dark">About Us</h2>
 				<p className="w-51 text-dark about-text">
-					Our dedicated team, led by Julio Solis, has meticulously crafted this
+					Our dedicated team, led by Ojinga Anokwu, has meticulously crafted this
                     website to cater to visitors' diverse needs. Ojinga Anokwu designed the
                     homepage, coded the currency converter, password recovery page, and
                     handpicked the design to capture users' attention, ensuring
